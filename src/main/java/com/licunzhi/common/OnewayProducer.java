@@ -1,4 +1,4 @@
-package com.licunzhi;
+package com.licunzhi.common;
 
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
 import org.apache.rocketmq.common.message.Message;

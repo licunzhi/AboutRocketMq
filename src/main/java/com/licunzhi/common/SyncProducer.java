@@ -1,4 +1,4 @@
-package com.licunzhi;
+package com.licunzhi.common;
 
 import java.util.Scanner;
 import org.apache.rocketmq.client.producer.DefaultMQProducer;

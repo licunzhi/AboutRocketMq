@@ -1,4 +1,4 @@
-package com.licunzhi;
+package com.licunzhi.common;
 
 import java.io.UnsupportedEncodingException;
 import java.util.List;
